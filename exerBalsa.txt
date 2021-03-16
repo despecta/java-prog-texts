@@ -1,0 +1,35 @@
+2 pessoas no máximo 
+
+2 filhas
+2 filhos
+1 pai
+1 mãe 
+1 policial 
+1 bandido
+
+pai =x filhas
+mãe =x filhos
+
+bandido =x família 
+
+Usar o barco? 
+pai
+mãe 
+policial 
+
+1 - policial/bandido >>>
+2 - policial <<<
+3 - policial/filho1 >>>
+4 - policial/bandido <<<
+5 - pai/filho2 >>>
+6 - pai <<<
+7 - pai/mãe >>>
+8 - mãe <<<
+9 - mãe/filha1 >>>
+10 - mãe <<<
+11 - mãe/filha2 >>>
+12 - pai <<<
+13 - policial/pai >>>
+14 - policial <<<
+15 - policial/bandido >>>
+
