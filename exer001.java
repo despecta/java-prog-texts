@@ -7,7 +7,7 @@ package javaapplication2;
 
 /**
  *
- * @author Despecta est
+ * @author Adriel Ernesto
  */
 public class exer001 {
 
